@@ -1,0 +1,12 @@
+<svg width="320" height="320" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title2">
+  <title id="title2">Person illustration 2</title>
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#036f6d" />
+      <stop offset="100%" stop-color="#670e16" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" rx="48" fill="url(#grad2)" />
+  <circle cx="160" cy="128" r="68" fill="rgba(255,255,255,0.9)" />
+  <rect x="64" y="196" width="192" height="104" rx="52" fill="rgba(255,255,255,0.78)" />
+</svg>
